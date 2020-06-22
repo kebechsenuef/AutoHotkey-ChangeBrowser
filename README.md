@@ -1,6 +1,6 @@
 # AutoHotkey-ChangeBrowser
 Changing the Standard-Browser in Windows 10 via Hotkey STRG + ALT + S
-Use of @AutoHotkey_L
+
 
 #### 1 Install 'SetDefaultBrowser' Software
 

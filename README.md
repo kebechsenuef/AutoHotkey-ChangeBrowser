@@ -4,7 +4,7 @@ Use of @AutoHotkey_L
 
 #### 1 Install 'SetDefaultBrowser' Software
 
-- .... [here](https://https://kolbi.cz/blog/2017/11/10/setdefaultbrowser-set-the-default-browser-per-user-on-windows-10-and-server-2016-build-1607)
+- .... [here](https://kolbi.cz/blog/2017/11/10/setdefaultbrowser-set-the-default-browser-per-user-on-windows-10-and-server-2016-build-1607)
 
 #### 2 Adapt browser-switch.ahk from this Repo
 
